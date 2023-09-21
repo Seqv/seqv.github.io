@@ -1,5 +1,8 @@
 # Koodauskerho
 
+Verkon nimi: Kerho
+Salasana: koodauskerho
+
 Oppimateriaalit:
 
 ## Scratch (suositeltu aloittelijoille):
