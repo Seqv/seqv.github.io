@@ -1,8 +1,8 @@
-## Koodauskerho
+# Koodauskerho
 
 Oppimateriaalit:
 
-# Scratch (suositeltu aloittelijoille):
+## Scratch (suositeltu aloittelijoille):
 
 [Scratchin aloitusopas / Scratchin hallinta](https://www.seqv.github.io/TutustutaanScratchiin.pdf)
 
