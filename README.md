@@ -1,6 +1,6 @@
 # Koodauskerho
 
-Verkon nimi: Kerho
+Verkon nimi: Kerho     -     
 
 Salasana: koodauskerho
 
