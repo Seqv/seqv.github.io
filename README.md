@@ -1,11 +1,11 @@
-# Savecorp
+## Koodauskerho
 
-heipä hei, me tehdään asioita
+Oppimateriaalit:
 
-Tässä on muutama meidän projekti:
+# Scratch (suositeltu aloittelijoille):
 
-sample text
+[Scratchin aloitusopas / Scratchin hallinta](https://www.seqv.github.io/TutustutaanScratchiin.pdf)
 
-sample text
+[Scratch 1 - Keräilypeli](https://www.seqv.github.io/1_Kerailypeli.pdf)
 
-sample text
+[Scratch 2 - Avaruusväistely](https://www.seqv.github.io/2_Avaruusvaistelu_v2.pdf)
