@@ -8,6 +8,12 @@ Oppimateriaalit:
 
 ## Scratch (suositeltu aloittelijoille):
 
+Scratchiin pääsee osoitteesta https://scratch.mit.edu
+
+Jotta voit tallentaa työsi, suosittelen luomaan tilin kohdasta "liity scratchiin" sivun oikeasta yläkulmasta. Huom - vaatii sähköpostitunnuksen. Tämä ei ole kuitenkaan pakollista
+
+Klikkaa "Luo" vasemmassa yläreunasssa. Siten pääset Scratch-ohjelmointiympäristöön.
+
 [Scratchin aloitusopas / Scratchin hallinta](https://seqv.github.io/materiaali/TutustutaanScratchiin.pdf)
 
 [Scratch 1 - Keräilypeli](https://seqv.github.io/materiaali/1Kerailypeli.pdf)
