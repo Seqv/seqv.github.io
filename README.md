@@ -18,7 +18,7 @@ Klikkaa "Luo" vasemmassa yläreunasssa. Siten pääset Scratch-ohjelmointiympär
 
 [Scratch 1 - Keräilypeli](https://seqv.github.io/materiaali/1Kerailypeli.pdf)
 
-[Scratch 2 - Avaruusväistely](https://seqv.github.io/materiaali/2Avaruusvaistelu_v2.pdf)
+[Scratch 2 - Avaruusväistely](https://seqv.github.io/materiaali/2_Avaruusvaistelu_v2.pdf)
 
 [Scratch 3 - Labyrintti](https://seqv.github.io/materiaali/3Labyrinttiohje_v2.pdf)
 
